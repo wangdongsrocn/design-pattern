@@ -1,4 +1,4 @@
-package org.learn.abstractfactory;
+package org.learn.abstract_factory;
 
 public abstract class AbstractTV {
 }

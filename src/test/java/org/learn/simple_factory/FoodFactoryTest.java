@@ -1,4 +1,4 @@
-package org.learn.simplefactory;
+package org.learn.simple_factory;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

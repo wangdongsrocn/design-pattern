@@ -1,4 +1,4 @@
-package org.learn.simplefactory;
+package org.learn.simple_factory;
 
 public class FoodFactory {
     public static Food makeFood(String name) {
