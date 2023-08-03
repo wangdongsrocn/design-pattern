@@ -1,1 +1,1 @@
-gof23-pattern-project
+design-pattern-project
