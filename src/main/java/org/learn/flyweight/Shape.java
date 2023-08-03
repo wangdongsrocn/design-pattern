@@ -1,0 +1,5 @@
+package org.learn.flyweight;
+
+public interface Shape {
+    void draw();
+}
